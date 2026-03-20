@@ -5,7 +5,7 @@ This Python script automatically fishes on the Hypixel Minecraft server.
 
 ## Library
 You have to install pyautogui in order to run the script.
-You have to install python and and pip.
+You have to install python and pip.
 
 ## Installation
 
