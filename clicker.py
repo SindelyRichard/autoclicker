@@ -2,10 +2,11 @@ import pyautogui
 import time
 import random
 
-print("Starting in 5 seconds...")
+print("Starting in 5 seconds..")
 time.sleep(5)
-pyautogui.click(button='left') #Dummy click to bring up the remote permission window
-time.sleep(5)
+pyautogui.click(button='left') #Dummy click to bring up the remote interaction permission window
+print("Starting in 10 seconds... accept the remote interaction.")
+time.sleep(10)
 pyautogui.click(button='right') #It casts the bait in the water
 print("Press Ctrl+c to stop the program.")
 try:
