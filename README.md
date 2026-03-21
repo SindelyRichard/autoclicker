@@ -16,8 +16,8 @@ You have to install python and pip.
    ```
 3.Stop it with Ctrl+c
 
-If a pop-up window appears, accept the remote permission.
-This permission is required to allow remote access to your system. On Fedora, this ensures that the application can securely interact with your desktop, for example to control input (autoclicker).
+If a pop-up window appears, accept the remote interaction permission.
+This permission is required to allow autoclicker to run. On Fedora, this ensures that the application can securely interact with your desktop, for example to control input (autoclick).
 
 ## Result
 In 10 minutes of fishing, I caught 40 fish on Hypixel Housing.
