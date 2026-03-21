@@ -1,4 +1,4 @@
-# Autoclicker for Hypixel Fishing
+# Auto/AFK fishing for Hypixel
 
 ## Description
 This Python script automatically fishes on the Hypixel Minecraft server.
